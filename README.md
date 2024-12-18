@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Priya-rai121
 - 📫 How to reach me- priyarai12169@gmail.com
 - 😄 Pronouns: She
+
 🎓 Computer Engineering student at Army Institute of Technology, Pune.
 Open Source Contributer
 
